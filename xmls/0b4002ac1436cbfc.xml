@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Wheel</folder>
+  <filename>0b4002ac1436cbfc.jpg</filename>
+  <path>C:\Users\baris-pc\Desktop\ecevit\OIDv4\OIDv4_ToolKit-master\OID\Dataset\train\Wheel\0b4002ac1436cbfc.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>911</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Wheel</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>468</xmin>
+      <ymin>595</ymin>
+      <xmax>487</xmax>
+      <ymax>654</ymax>
+    </bndbox>
+  </object>
+</annotation>
